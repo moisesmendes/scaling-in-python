@@ -2,7 +2,10 @@
 
 Learning important topics to make Python code faster and more scalable.
 
-* Comprehensions in Python
-* Iterators and Generators
-* Generator expressions
-* Iteration Tools
+1. Comprehensions in Python
+2. Iterators and Generators
+3. Generator expressions
+4. Iteration Tools
+
+*Based on course "Core Python: Getting Started" by Robert Smallshire 
+and Austin Bingham from Pluralsight.*
